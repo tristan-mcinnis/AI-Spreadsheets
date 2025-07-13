@@ -2,7 +2,9 @@
 
 A lightweight, HTML-based spreadsheet application that integrates OpenAI's GPT models and web search capabilities. Built with simple HTML/CSS/JavaScript for maximum compatibility and ease of deployment. Perfect for journalists, researchers, data analysts, and anyone who wants to apply AI to their data analysis tasks without complex setup.
 
-<img width="1693" height="1304" alt="chrome_Bxd80zN1jK" src="https://github.com/user-attachments/assets/6f5396ca-4b80-4d1c-a0dc-628595dcacbc" />
+<img width="700" height="400" alt="chrome_kOmtjL3szT" src="https://github.com/user-attachments/assets/ba586afe-faa5-40e0-ae8d-b43aae5b1fc8" />
+<img width="700" height="400" alt="chrome_msNh1NEKUB" src="https://github.com/user-attachments/assets/7cb094aa-09b0-43ee-8936-d4f853b3633f" />
+
 
 ## ✨ Features
 
